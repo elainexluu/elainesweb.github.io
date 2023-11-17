@@ -74,6 +74,30 @@ body {
     margin-top: 20%;
 }
 
+.btn-group {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    bottom: 15%;
+}
+
+.btn {
+    display: inline-block;
+    width: 55px;
+    /* width: 3%; */
+    height: 55px;
+    /* height: 100%; */
+    margin-right: 3%;
+    border: none;
+    border-radius: 15%;
+    background-color: #1d222e;
+    /* background-color: #252f40; */
+}
+
+.btn-group .btn:hover {
+    background-color: #252f40;
+}
+
 /* .overlay-content {
 
 } */
