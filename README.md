@@ -5,4 +5,7 @@
 
 ### Link to website: 
 
-### The technology stack I used to develop my website is html and css.
+#### The technology stack I used to develop my website is html and css.
+
+# License
+#### The type of license I used for this repo is MIT because I'm comfortable with others to freely use my code, as a lot of my code I was able to learn and gather from the help of the internet. Therefore, others can freely use or modify my code if they choose.
