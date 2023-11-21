@@ -175,6 +175,7 @@ body {
     margin-right: 4%;
     margin-left: 30%;
     color: white;
+    font-size: 17px;
 }
 
 .sec-text:nth-child(1) {
@@ -186,11 +187,3 @@ body {
     text-align: center;
     color: white;
 }
-
-/* .passion-section {
-
-} */
-
-/* .overlay-content {
-
-} */
